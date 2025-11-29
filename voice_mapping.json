@@ -1,0 +1,67 @@
+{
+  "pawn e2 to e4": {
+    "piece": "P",
+    "src": "e2",
+    "dst": "e4"
+  },
+  "rook d7 to d8": {
+    "piece": "R",
+    "src": "d7",
+    "dst": "d8"
+  },
+  "bishop c-32 c-7": {
+    "piece": "b",
+    "src": "c3",
+    "dst": "c7"
+  },
+  "night d3 today": {
+    "piece": "n",
+    "src": "d3",
+    "dst": "d8"
+  },
+  "queen c5 to c7": {
+    "piece": "Q",
+    "src": "c5",
+    "dst": "c7"
+  },
+  "ka1-a6": {
+    "piece": "k",
+    "src": "a1",
+    "dst": "a6"
+  },
+  "night f32d6": {
+    "piece": "N",
+    "src": "f3",
+    "dst": "d6"
+  },
+  "queen b22 c3": {
+    "piece": "Q",
+    "src": "b2",
+    "dst": "c3"
+  },
+  "bond h3 to h8": {
+    "piece": "P",
+    "src": "h3",
+    "dst": "h8"
+  },
+  "bishop f32g6": {
+    "piece": "B",
+    "src": "f3",
+    "dst": "g6"
+  },
+  "9g32h7": {
+    "piece": "n",
+    "src": "g3",
+    "dst": "h7"
+  },
+  "knight g32h7": {
+    "piece": "N",
+    "src": "g3",
+    "dst": "h7"
+  },
+  "queen b12 a3": {
+    "piece": "Q",
+    "src": "b1",
+    "dst": "a3"
+  }
+}
